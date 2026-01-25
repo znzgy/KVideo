@@ -478,9 +478,6 @@ npm start
   如果这个项目对你有帮助，请考虑给一个 ⭐️
 </div>
 
-# Buy me a coffee
-<a href="https://www.buymeacoffee.com/kuekhaoyang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KuekHaoYang/KVideo&type=date&legend=top-left)](https://www.star-history.com/#KuekHaoYang/KVideo&type=date&legend=top-left)
